@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+pillow
+scikit-learn
+base58
